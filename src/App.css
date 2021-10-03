@@ -1,0 +1,13 @@
+
+nav {
+  text-align: center;
+}
+nav a {
+  text-decoration: none;
+  display: inline-block;
+  padding: 15px 38px;
+  background-color: black;
+  color: #fff;
+  margin: 10px 1px;
+  border-radius: 9px;
+}
